@@ -1,13 +1,13 @@
 {
   "posts": [
     {
-      "title": "Title 1d",
-      "body": "TExt some text",
+      "title": "Title for the first Post",
+      "body": "Text some text",
       "id": 1
     },
     {
-      "title": "test 2",
-      "body": "tadsf adf dfdfdfd adfdf dfd ddf.",
+      "title": "Post 2",
+      "body": "Lorem ipsum dolor",
       "id": 2
     }
   ]
