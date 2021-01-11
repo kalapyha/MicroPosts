@@ -1,0 +1,7 @@
+.delete {
+	color: rgb(255, 0, 0);
+}
+
+.delete:hover {
+	color: rgb(207, 4, 4);
+}
